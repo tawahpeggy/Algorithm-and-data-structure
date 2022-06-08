@@ -18,3 +18,4 @@ def binary_search(target,list):
     return None;
 
 binary_search(target,list);
+ 

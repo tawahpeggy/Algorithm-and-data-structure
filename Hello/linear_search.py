@@ -17,4 +17,6 @@ def verify(index):
     else:
         print("Target not found in list");
 
-linear_search(list,target)
+result = linear_search(list,target);
+verify(result);
+linear_search(list,target);
